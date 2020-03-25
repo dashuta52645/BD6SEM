@@ -1,0 +1,14 @@
+E:\3курс2сем\бд\лабы\L2\L2\bin\Debug\L2.exe.config
+E:\3курс2сем\бд\лабы\L2\L2\bin\Debug\L2.exe
+E:\3курс2сем\бд\лабы\L2\L2\bin\Debug\L2.pdb
+E:\3курс2сем\бд\лабы\L2\L2\obj\Debug\L2.csproj.CoreCompileInputs.cache
+E:\3курс2сем\бд\лабы\L2\L2\obj\Debug\L2.exe
+E:\3курс2сем\бд\лабы\L2\L2\obj\Debug\L2.pdb
+E:\3курс2сем\бд\лабы\L2\L2\obj\Debug\L2.csprojAssemblyReference.cache
+E:\3курс2сем\бд\лабы\Laba2\L2\bin\Debug\L2.exe.config
+E:\3курс2сем\бд\лабы\Laba2\L2\bin\Debug\L2.exe
+E:\3курс2сем\бд\лабы\Laba2\L2\bin\Debug\L2.pdb
+E:\3курс2сем\бд\лабы\Laba2\L2\obj\Debug\L2.csprojAssemblyReference.cache
+E:\3курс2сем\бд\лабы\Laba2\L2\obj\Debug\L2.csproj.CoreCompileInputs.cache
+E:\3курс2сем\бд\лабы\Laba2\L2\obj\Debug\L2.exe
+E:\3курс2сем\бд\лабы\Laba2\L2\obj\Debug\L2.pdb

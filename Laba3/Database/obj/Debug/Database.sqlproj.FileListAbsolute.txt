@@ -1,0 +1,18 @@
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\bin\Debug\Database.dacpac
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\bin\Debug\Database.dll
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\bin\Debug\Database.pdb
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\Database.dll
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\Database.pdb
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\Model.xml
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\refactor.xml
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\postdeploy.sql
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\predeploy.sql
+E:\3курс2сем\бд\лабы\Laba3\Database\bin\Debug\Database.dacpac
+E:\3курс2сем\бд\лабы\Laba3\Database\bin\Debug\Database.dll
+E:\3курс2сем\бд\лабы\Laba3\Database\bin\Debug\Database.pdb
+E:\3курс2сем\бд\лабы\Laba3\Database\obj\Debug\Model.xml
+E:\3курс2сем\бд\лабы\Laba3\Database\obj\Debug\refactor.xml
+E:\3курс2сем\бд\лабы\Laba3\Database\obj\Debug\postdeploy.sql
+E:\3курс2сем\бд\лабы\Laba3\Database\obj\Debug\predeploy.sql
+E:\3курс2сем\бд\лабы\Laba3\Database\obj\Debug\Database.dll
+E:\3курс2сем\бд\лабы\Laba3\Database\obj\Debug\Database.pdb
